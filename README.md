@@ -12,7 +12,7 @@ Dataset Link: http://robdunnlab.com/projects/belly-button-biodiversity/results-a
 ## Steps: 
 1)	**Drop down and Demographics panel:** The first step was to add all the IDs to the “Test Subject ID No” dropdown so that the user can select which ID they would like to look at and so we can use that ID to parse out the information that we need from our data json file. I then use the ID to filter out the metadata pertaining to the selected ID and stored it in an object. I then used d3 to select the panel-body class in my index.html where I used a forEach statement to iterate through the object and append the data to the demographics panel.
 
-![drop_down](https://user-images.githubusercontent.com/63375741/114325761-c2c59a00-9aff-11eb-94dc-7cebc5eaedb2.png)
+![drop_down]![Snap6](https://user-images.githubusercontent.com/96216509/158893187-33af32bf-ddc3-4dd9-a190-15c657952b15.png)
 
 
 2)	**Horizontal bar chart and Bubble Chart:** To create the horizontal chart, I first filtered the JSON data by the current ID that the user has selected. I then created a trace for the chart with the top 10 sample values as the x and the OTU IDs as the y. I then used Plotly to create the bar chart. I followed the same steps above to create the bubble chart.
