@@ -5,7 +5,7 @@ The purpose of this project is to create an interactive dashboard that allows th
 
 ### Tools Used: D3, Plotly, Bootstrap
 
-Link for interactive dashboard: https://delacruzfranklyn93.github.io/Belly_Button_Biodiversity/
+Link for interactive dashboard: https://lindsaybgood.github.io/Belly_Button_Biodiversity/
 
 Dataset Link: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
 
