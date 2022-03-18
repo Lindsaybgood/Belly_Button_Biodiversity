@@ -25,4 +25,3 @@ Dataset Link: http://robdunnlab.com/projects/belly-button-biodiversity/results-a
 3)	**Gauge chart:** To create the gauge chart, I first created my pie chart which would have the gradient colors and labels from lowest to highest frequency washings per week. I then proceeded to create my needle by  created several SVG paths that would draw the needle and that correlate with the washing frequency of a subject. I then created a function that would use a switch statement to select the correct path drawing for the needle  depending on the number of washing frequency. . 
 
 ![gauge_chart](https://user-images.githubusercontent.com/63375741/114325787-e092ff00-9aff-11eb-91e9-f964ee1b93c0.png)
-
