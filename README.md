@@ -26,4 +26,3 @@ Dataset Link: http://robdunnlab.com/projects/belly-button-biodiversity/results-a
 
 ![gauge_chart](https://user-images.githubusercontent.com/63375741/114325787-e092ff00-9aff-11eb-91e9-f964ee1b93c0.png)
 
-
